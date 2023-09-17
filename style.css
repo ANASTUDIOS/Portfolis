@@ -26,6 +26,9 @@ width:100%;
 height: auto;
 }
 
+.IMG{
+    background-color: #F4B860;
+}
 .nav_techs{
     background-image: url(null);
     background-repeat: no-repeat;
@@ -203,7 +206,7 @@ height: auto;
 }
 
 .RED{
-    background-color:#FF9C8F;
+    background-color: #F4B860;
     color:#D7385E;
 }
 
