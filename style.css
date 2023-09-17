@@ -1,0 +1,244 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';font-size: 15px;
+    font-weight: 500;
+}
+
+.nav_tech{
+    
+    postion:relative;
+    /* hieght of nav box */
+    height:50px;
+    display: flex;
+    justify-content: top;
+    align-items: top;
+    text-align:center;
+    position: sticky;
+    /*Menu THings font size*/
+    font-size: 1.2rem;
+    z-index: 999;
+}
+
+img{
+width:100%;
+height: auto;
+}
+
+.nav_techs{
+    background-image: url(null);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+    postion:relative;
+    /* hieght of nav box */
+    height:900px;
+    display: flex;
+    justify-content: top;
+    align-items: top;
+    position: sticky;
+    /*Menu THings font size*/
+    font-size: 1.2rem;
+    z-index: 999;
+}
+
+.nav_teched{
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-color: #F5E9D9;
+
+    postion:relative;
+    /* hieght of nav box */
+    height:900px;
+    display: flex;
+    justify-content: top;
+    align-items: top;
+    position: sticky;
+    /*Menu THings font size*/
+    font-size: 1.2rem;
+    z-index: 999;
+}
+
+
+.navdiv_tech{
+    display: flex;
+    justify-content: space-between;
+    height: 120px;
+    z-index: 1;
+    width: 100%;
+    max-width:1300px;
+    margin: 0 auto;
+}
+
+
+#navtag_tech{
+    background-color: #F79152;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: #ffffff;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+    font-decoration: none;
+    /*Size of "NEXT"*/
+    font-weight: 500;
+    font-size: 1.2rem;
+   }
+
+.fa-gem{
+    magrin-right: 0.5rem;
+}
+
+.navmenu_tech{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    text-align: center;
+}
+
+
+.navitem_tech{
+    /* height of bg of nag bar links*/
+    height: fit-content;
+}
+
+
+.navlink_tech{
+   /* COlor of menu text */
+    color:#FFD6C2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+   /* Spacing between text in headers */
+    padding: 0 2rem;
+    height: 100%;
+
+}
+/*
+.navbutton_tech{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    Spacing between text in button 
+    padding: 0 2px;
+    width: 100%;
+}*/
+
+/*
+.button:hover {
+    background:#364f6b;
+    transition: all 0.4s ease;
+}
+
+*/
+
+.navlink_tech:hover{
+   font-style: italic;
+  }
+
+.navlink_tech:focus{
+    font-style: italic;
+   }
+
+.BLACK , .RED , .LIGHT ,.ORANGE, .footer, .BOX, .LIGHT_ORANGE{
+    text-decoration: none;
+    display: flex;
+    /*Menu THings font size*/
+    font-size: 1rem;
+    position: relative;
+    z-index: 1;
+    height: 900px;
+    padding-left: 60px;
+    justify-content: left;
+    font-size: 1.2rem;
+
+}
+
+.GRAY-BOX{
+    text-decoration: none;
+    display: flex;
+    /*Menu THings font size*/
+    font-size: 1rem;
+    position: relative;
+    z-index: 1;
+    width:550px;
+    height: 50%;
+    margin-left: 800px;
+    justify-content: left;
+    font-size: 1.2rem;
+}
+
+.RED-BOX{
+   background-color: #3b3b3b;
+   display: flex;
+   /*Menu THings font size*/
+   font-size: 1rem;
+   position: relative;
+   z-index: 1;
+   width:550px;
+   height: 50%;
+   justify-content: left;
+   font-size: 1.2rem;
+}
+
+.about_image{
+    text-decoration: none;
+    background-color:#d2b6b6;
+    display: flex;
+    /*Menu THings font size*/
+    font-size: 1rem;
+    position: relative;
+    z-index: 1;
+    justify-content: left;
+    font-size: 1.2rem;
+    float:left;
+}
+
+.BLACK{
+    color:#FB7B6B;
+    background-color:#2f2f2f;
+}
+
+.RED{
+    background-color:#FF9C8F;
+    color:#D7385E;
+}
+
+.LIGHT{
+    background-color:#FF8375;
+    color:#FFD6C2;
+}
+
+.ORANGE{
+    background-color:#FB7B6B;
+    color:#2f2f2f;
+}
+
+.footer{
+    background-color: #4a4a4a;
+    color: #323232;
+    height: 200px; 
+}
+
+.BOX{
+    background-color: #D7385E;
+    color: #FFD6C2;
+}
+
+.LIGHT_ORANGE{
+    background-color: #FFC09D;
+    color: #FB7B6B;
+}
+
+html {
+    
+}
+
+body{
+background-color: #000000;
+justify-content: center;
+
+}
