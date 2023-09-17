@@ -7,7 +7,7 @@
 }
 
 .nav_tech{
-    
+    background-color: #332D47;
     postion:relative;
     /* hieght of nav box */
     height:50px;
@@ -27,7 +27,7 @@ height: auto;
 }
 
 .IMG{
-    background-color: #F4B860;
+    background-color: #332D47;
 }
 .nav_techs{
     background-image: url(null);
@@ -201,23 +201,23 @@ height: auto;
 }
 
 .BLACK{
-    color:#FB7B6B;
-    background-color:#2f2f2f;
+    background-color: #282337;
+    color: #D7385E;
 }
 
 .RED{
-    background-color: #D7385E;
-    color:#F4B860;
+    background-color: #282337;
+    color: #D7385E;
 }
 
 .LIGHT{
-    background-color:#FF8375;
-    color:#FFD6C2;
+    background-color: #282337;
+    color: #D7385E;
 }
 
 .ORANGE{
-    background-color:#FB7B6B;
-    color:#2f2f2f;
+    background-color: #282337;
+    color: #D7385E;
 }
 
 .footer{
@@ -234,10 +234,6 @@ height: auto;
 .LIGHT_ORANGE{
     background-color: #FFC09D;
     color: #FB7B6B;
-}
-
-html {
-    
 }
 
 body{
