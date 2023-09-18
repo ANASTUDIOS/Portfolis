@@ -99,6 +99,7 @@ height: auto;
     align-items: center;
     list-style: none;
     text-align: center;
+    
 }
 
 
@@ -221,7 +222,7 @@ height: auto;
 }
 
 .footer{
-    background-color: #181522;
+    background-color: #1e1a2a;
     height: 100px; 
 }
 
