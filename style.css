@@ -7,7 +7,7 @@
 }
 
 .nav_tech{
-    background-color: #332D47;
+    background-color: #F4B860;
     postion:relative;
     /* hieght of nav box */
     height:50px;
@@ -111,7 +111,7 @@ height: auto;
 
 .navlink_tech{
    /* COlor of menu text */
-    color:#FFD6C2;
+    color: #332D47;
     display: flex;
     align-items: center;
     justify-content: center;
